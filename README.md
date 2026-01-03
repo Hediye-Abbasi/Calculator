@@ -17,7 +17,7 @@ It was created as a practice project for learning basic GUI programming in Java.
 ## How to Run
 1. Make sure Java is installed on your system.
 2. Compile the code: javac T4.java
-3. Run the program: java T4.jav
+3. Run the program: java T4.java
 
 
 ## Notes
